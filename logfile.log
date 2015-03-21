@@ -1,0 +1,919 @@
+2014-10-09 14:53:13,059 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:13,059 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:13,059 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 14:53:13,059 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:13,059 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:13,060 INFO  [Log] Opening Browser 
+2014-10-09 14:53:33,284 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 14:53:39,614 INFO  [Log] Entering the text in  
+2014-10-09 14:53:39,637 INFO  [Log] Entering the text in  
+2014-10-09 14:53:39,662 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 14:53:39,805 INFO  [Log] Waiting for 
+2014-10-09 14:53:40,123 INFO  [Log] Verifying text h1 
+2014-10-09 14:53:40,178 INFO  [Log] Closing Browser 
+2014-10-09 14:53:41,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 14:53:41,474 INFO  [Log] X 
+2014-10-09 14:53:41,474 INFO  [Log] X 
+2014-10-09 14:53:41,474 INFO  [Log] X 
+2014-10-09 14:53:41,474 INFO  [Log] X 
+2014-10-09 14:53:41,474 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:41,474 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:41,474 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 14:53:41,474 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:41,474 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:53:41,489 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 14:53:41,489 INFO  [Log] X 
+2014-10-09 14:53:41,490 INFO  [Log] X 
+2014-10-09 14:53:41,490 INFO  [Log] X 
+2014-10-09 14:53:41,490 INFO  [Log] X 
+2014-10-09 14:53:41,490 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 14:53:41,490 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 14:55:21,200 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:21,200 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:21,200 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 14:55:21,200 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:21,200 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:21,201 INFO  [Log] Opening Browser 
+2014-10-09 14:55:37,150 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 14:55:43,052 INFO  [Log] Entering the text in  
+2014-10-09 14:55:43,074 INFO  [Log] Entering the text in  
+2014-10-09 14:55:43,116 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 14:55:43,237 INFO  [Log] Waiting for 
+2014-10-09 14:55:43,261 INFO  [Log] Verifying text h1 
+2014-10-09 14:55:43,610 INFO  [Log] Closing Browser 
+2014-10-09 14:55:44,400 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 14:55:44,400 INFO  [Log] X 
+2014-10-09 14:55:44,400 INFO  [Log] X 
+2014-10-09 14:55:44,400 INFO  [Log] X 
+2014-10-09 14:55:44,400 INFO  [Log] X 
+2014-10-09 14:55:44,400 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:44,400 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:44,400 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 14:55:44,400 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:44,400 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:55:44,416 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 14:55:44,416 INFO  [Log] X 
+2014-10-09 14:55:44,416 INFO  [Log] X 
+2014-10-09 14:55:44,416 INFO  [Log] X 
+2014-10-09 14:55:44,416 INFO  [Log] X 
+2014-10-09 14:55:44,416 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 14:55:44,416 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 14:56:38,413 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:56:38,414 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:56:38,414 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 14:56:38,414 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:56:38,414 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:57:01,961 INFO  [Log] Opening Browser 
+2014-10-09 14:58:49,452 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 14:59:11,607 INFO  [Log] Entering the text in  
+2014-10-09 14:59:15,830 INFO  [Log] Entering the text in  
+2014-10-09 14:59:19,698 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 14:59:19,918 INFO  [Log] Waiting for 
+2014-10-09 14:59:19,948 INFO  [Log] Verifying text h1 
+2014-10-09 14:59:20,403 INFO  [Log] Closing Browser 
+2014-10-09 14:59:20,561 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 14:59:20,561 INFO  [Log] X 
+2014-10-09 14:59:20,561 INFO  [Log] X 
+2014-10-09 14:59:20,561 INFO  [Log] X 
+2014-10-09 14:59:20,561 INFO  [Log] X 
+2014-10-09 14:59:46,526 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:59:46,527 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:59:46,527 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 14:59:46,527 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:59:46,527 INFO  [Log] **************************************************************************************** 
+2014-10-09 14:59:46,556 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 14:59:46,556 INFO  [Log] X 
+2014-10-09 14:59:46,556 INFO  [Log] X 
+2014-10-09 14:59:46,556 INFO  [Log] X 
+2014-10-09 14:59:46,556 INFO  [Log] X 
+2014-10-09 14:59:50,263 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 14:59:56,119 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:07:45,002 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:45,003 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:45,003 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:07:45,003 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:45,003 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:45,003 INFO  [Log] Opening Browser 
+2014-10-09 15:07:50,486 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:07:55,388 INFO  [Log] Entering the text in  
+2014-10-09 15:07:55,409 INFO  [Log] Entering the text in  
+2014-10-09 15:07:55,437 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 15:07:55,546 INFO  [Log] Waiting for 
+2014-10-09 15:07:55,567 INFO  [Log] Verifying text h1 
+2014-10-09 15:07:55,693 INFO  [Log] Closing Browser 
+2014-10-09 15:07:55,888 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:07:55,888 INFO  [Log] X 
+2014-10-09 15:07:55,888 INFO  [Log] X 
+2014-10-09 15:07:55,888 INFO  [Log] X 
+2014-10-09 15:07:55,888 INFO  [Log] X 
+2014-10-09 15:07:55,888 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:55,888 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:55,888 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:07:55,888 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:55,888 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:07:55,907 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:07:55,907 INFO  [Log] X 
+2014-10-09 15:07:55,907 INFO  [Log] X 
+2014-10-09 15:07:55,907 INFO  [Log] X 
+2014-10-09 15:07:55,907 INFO  [Log] X 
+2014-10-09 15:07:55,907 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:07:55,907 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:19:04,241 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:19:04,242 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:19:04,242 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:19:04,242 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:19:04,242 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:19:20,411 INFO  [Log] Opening Browser 
+2014-10-09 15:19:25,561 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:19:29,732 INFO  [Log] Entering the text in  
+2014-10-09 15:19:29,757 INFO  [Log] Entering the text in  
+2014-10-09 15:19:29,786 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 15:19:29,910 INFO  [Log] Waiting for 
+2014-10-09 15:19:29,935 INFO  [Log] Verifying text h1 
+2014-10-09 15:19:30,064 INFO  [Log] Closing Browser 
+2014-10-09 15:19:30,295 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:19:30,295 INFO  [Log] X 
+2014-10-09 15:19:30,295 INFO  [Log] X 
+2014-10-09 15:19:30,295 INFO  [Log] X 
+2014-10-09 15:19:30,295 INFO  [Log] X 
+2014-10-09 15:20:08,110 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:20:08,111 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:20:08,111 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:20:08,111 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:20:08,112 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:10,520 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:10,520 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:10,520 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:24:10,520 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:10,520 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:10,521 INFO  [Log] Opening Browser 
+2014-10-09 15:24:14,620 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:24:18,612 INFO  [Log] Entering the text in  
+2014-10-09 15:24:18,638 INFO  [Log] Entering the text in  
+2014-10-09 15:24:18,656 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 15:24:18,767 INFO  [Log] Waiting for 
+2014-10-09 15:24:18,786 INFO  [Log] Verifying text h1 
+2014-10-09 15:24:19,114 INFO  [Log] Closing Browser 
+2014-10-09 15:24:19,302 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:24:19,304 INFO  [Log] X 
+2014-10-09 15:24:19,304 INFO  [Log] X 
+2014-10-09 15:24:19,304 INFO  [Log] X 
+2014-10-09 15:24:19,304 INFO  [Log] X 
+2014-10-09 15:24:19,306 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:19,307 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:19,307 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:24:19,307 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:19,307 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:24:19,307 INFO  [Log] Opening Browser 
+2014-10-09 15:24:22,808 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:24:27,909 INFO  [Log] Closing Browser 
+2014-10-09 15:24:28,083 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:24:28,084 INFO  [Log] X 
+2014-10-09 15:24:28,084 INFO  [Log] X 
+2014-10-09 15:24:28,084 INFO  [Log] X 
+2014-10-09 15:24:28,084 INFO  [Log] X 
+2014-10-09 15:24:28,084 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:24:28,084 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:29:39,710 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:39,711 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:39,711 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:29:39,711 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:39,711 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:39,711 INFO  [Log] Opening Browser 
+2014-10-09 15:29:43,909 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:29:47,872 INFO  [Log] Entering the text in  
+2014-10-09 15:29:47,896 INFO  [Log] Entering the text in  
+2014-10-09 15:29:47,920 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 15:29:48,048 INFO  [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"//*[@id='btnLogin1']"}
+Command duration or timeout: 19 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.0', revision: '5e82430', time: '2014-05-22 20:18:07'
+System info: host: 'UDeshmukh', ip: '192.168.0.124', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=31.0, platform=XP, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e365fc79-2ff3-4b22-8f7e-12b455e3a753 
+2014-10-09 15:29:48,076 INFO  [Log] Closing Browser 
+2014-10-09 15:29:48,187 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:29:48,187 INFO  [Log] X 
+2014-10-09 15:29:48,187 INFO  [Log] X 
+2014-10-09 15:29:48,187 INFO  [Log] X 
+2014-10-09 15:29:48,187 INFO  [Log] X 
+2014-10-09 15:29:48,187 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:48,187 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:48,187 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:29:48,187 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:48,188 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:29:48,188 INFO  [Log] Opening Browser 
+2014-10-09 15:29:52,323 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:29:56,417 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:29:56,417 INFO  [Log] Closing Browser 
+2014-10-09 15:29:56,526 INFO  [Log] Closing Browser 
+2014-10-09 15:29:56,543 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:29:56,543 INFO  [Log] X 
+2014-10-09 15:29:56,543 INFO  [Log] X 
+2014-10-09 15:29:56,543 INFO  [Log] X 
+2014-10-09 15:29:56,543 INFO  [Log] X 
+2014-10-09 15:29:56,543 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:29:56,543 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:32:59,833 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:32:59,833 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:32:59,833 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:32:59,833 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:32:59,833 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:32:59,834 INFO  [Log] Opening Browser 
+2014-10-09 15:33:04,595 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:33:08,390 INFO  [Log] Entering the text in  
+2014-10-09 15:33:08,416 INFO  [Log] Entering the text in  
+2014-10-09 15:33:08,437 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-09 15:33:08,465 INFO  [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"//*[@id='btnLogin1']"}
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.0', revision: '5e82430', time: '2014-05-22 20:18:07'
+System info: host: 'UDeshmukh', ip: '192.168.0.124', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=31.0, platform=XP, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e4366c00-b7e4-4314-a27e-30f96c6def92 
+2014-10-09 15:33:08,485 INFO  [Log] Closing Browser 
+2014-10-09 15:33:08,655 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:33:08,655 INFO  [Log] X 
+2014-10-09 15:33:08,655 INFO  [Log] X 
+2014-10-09 15:33:08,656 INFO  [Log] X 
+2014-10-09 15:33:08,656 INFO  [Log] X 
+2014-10-09 15:33:08,657 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:33:08,657 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:33:08,657 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-09 15:33:08,657 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:33:08,657 INFO  [Log] **************************************************************************************** 
+2014-10-09 15:33:08,657 INFO  [Log] Opening Browser 
+2014-10-09 15:33:13,063 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-09 15:33:17,400 INFO  [Log] Closing Browser 
+2014-10-09 15:33:17,596 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-09 15:33:17,596 INFO  [Log] X 
+2014-10-09 15:33:17,596 INFO  [Log] X 
+2014-10-09 15:33:17,596 INFO  [Log] X 
+2014-10-09 15:33:17,596 INFO  [Log] X 
+2014-10-09 15:33:17,596 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-09 15:33:17,596 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 16:04:53,356 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,370 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,370 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 16:04:53,370 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,370 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,370 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 16:04:53,370 INFO  [Log] Opening Browser 
+2014-10-13 16:04:53,370 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 16:04:53,476 INFO  [Log] Closing Browser 
+2014-10-13 16:04:53,476 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 16:04:53,501 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 16:04:53,501 INFO  [Log] X 
+2014-10-13 16:04:53,501 INFO  [Log] X 
+2014-10-13 16:04:53,501 INFO  [Log] X 
+2014-10-13 16:04:53,501 INFO  [Log] X 
+2014-10-13 16:04:53,502 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,502 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,502 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 16:04:53,502 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,502 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:04:53,502 INFO  [Log] Opening Browser 
+2014-10-13 16:04:53,528 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 16:04:53,546 INFO  [Log] Closing Browser 
+2014-10-13 16:04:53,546 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 16:04:53,570 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 16:04:53,570 INFO  [Log] X 
+2014-10-13 16:04:53,571 INFO  [Log] X 
+2014-10-13 16:04:53,571 INFO  [Log] X 
+2014-10-13 16:04:53,571 INFO  [Log] X 
+2014-10-13 16:04:53,572 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 16:04:53,572 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 16:23:51,281 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,282 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,282 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 16:23:51,282 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,282 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,282 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 16:23:51,282 INFO  [Log] Opening Browser 
+2014-10-13 16:23:51,282 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 16:23:51,332 INFO  [Log] Closing Browser 
+2014-10-13 16:23:51,332 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 16:23:51,356 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 16:23:51,356 INFO  [Log] X 
+2014-10-13 16:23:51,357 INFO  [Log] X 
+2014-10-13 16:23:51,357 INFO  [Log] X 
+2014-10-13 16:23:51,357 INFO  [Log] X 
+2014-10-13 16:23:51,357 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,357 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,357 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 16:23:51,357 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,358 INFO  [Log] **************************************************************************************** 
+2014-10-13 16:23:51,359 INFO  [Log] Opening Browser 
+2014-10-13 16:23:51,384 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 16:23:51,411 INFO  [Log] Closing Browser 
+2014-10-13 16:23:51,411 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 16:23:51,433 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 16:23:51,434 INFO  [Log] X 
+2014-10-13 16:23:51,434 INFO  [Log] X 
+2014-10-13 16:23:51,434 INFO  [Log] X 
+2014-10-13 16:23:51,434 INFO  [Log] X 
+2014-10-13 16:23:51,436 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 16:23:51,436 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:03:27,363 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,363 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,364 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:03:27,364 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,364 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,364 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:03:27,364 INFO  [Log] Opening Browser 
+2014-10-13 17:03:27,364 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 17:03:27,410 INFO  [Log] Closing Browser 
+2014-10-13 17:03:27,410 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:03:27,437 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:03:27,437 INFO  [Log] X 
+2014-10-13 17:03:27,437 INFO  [Log] X 
+2014-10-13 17:03:27,437 INFO  [Log] X 
+2014-10-13 17:03:27,438 INFO  [Log] X 
+2014-10-13 17:03:27,440 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,440 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,440 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:03:27,440 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,440 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:27,441 INFO  [Log] Opening Browser 
+2014-10-13 17:03:27,464 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:03:27,498 INFO  [Log] Closing Browser 
+2014-10-13 17:03:27,498 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:03:27,519 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:03:27,519 INFO  [Log] X 
+2014-10-13 17:03:27,520 INFO  [Log] X 
+2014-10-13 17:03:27,520 INFO  [Log] X 
+2014-10-13 17:03:27,520 INFO  [Log] X 
+2014-10-13 17:03:27,520 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:03:27,520 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:03:43,188 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,188 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,188 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:03:43,188 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,188 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,188 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:03:43,189 INFO  [Log] Opening Browser 
+2014-10-13 17:03:43,189 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 17:03:43,237 INFO  [Log] Closing Browser 
+2014-10-13 17:03:43,237 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:03:43,259 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:03:43,259 INFO  [Log] X 
+2014-10-13 17:03:43,259 INFO  [Log] X 
+2014-10-13 17:03:43,260 INFO  [Log] X 
+2014-10-13 17:03:43,260 INFO  [Log] X 
+2014-10-13 17:03:43,260 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,260 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,260 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:03:43,260 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,260 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:03:43,261 INFO  [Log] Opening Browser 
+2014-10-13 17:03:43,286 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:03:43,308 INFO  [Log] Closing Browser 
+2014-10-13 17:03:43,308 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:03:43,328 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:03:43,328 INFO  [Log] X 
+2014-10-13 17:03:43,329 INFO  [Log] X 
+2014-10-13 17:03:43,329 INFO  [Log] X 
+2014-10-13 17:03:43,329 INFO  [Log] X 
+2014-10-13 17:03:43,332 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:03:43,332 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:04:50,135 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,135 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,135 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:04:50,135 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,135 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,136 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:04:50,136 INFO  [Log] Opening Browser 
+2014-10-13 17:04:50,136 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 17:04:50,184 INFO  [Log] Closing Browser 
+2014-10-13 17:04:50,185 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:04:50,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:04:50,211 INFO  [Log] X 
+2014-10-13 17:04:50,211 INFO  [Log] X 
+2014-10-13 17:04:50,211 INFO  [Log] X 
+2014-10-13 17:04:50,211 INFO  [Log] X 
+2014-10-13 17:04:50,212 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,212 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,212 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:04:50,212 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,212 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:04:50,212 INFO  [Log] Opening Browser 
+2014-10-13 17:04:50,236 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:04:50,260 INFO  [Log] Closing Browser 
+2014-10-13 17:04:50,260 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:04:50,282 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:04:50,282 INFO  [Log] X 
+2014-10-13 17:04:50,283 INFO  [Log] X 
+2014-10-13 17:04:50,283 INFO  [Log] X 
+2014-10-13 17:04:50,283 INFO  [Log] X 
+2014-10-13 17:04:50,284 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:04:50,284 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:06:20,011 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:20,013 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:20,013 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:06:20,013 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:20,013 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:20,014 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:06:20,014 INFO  [Log] Opening Browser 
+2014-10-13 17:06:20,014 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 17:06:20,087 INFO  [Log] Closing Browser 
+2014-10-13 17:06:20,087 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:06:20,113 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:06:20,113 INFO  [Log] X 
+2014-10-13 17:06:20,113 INFO  [Log] X 
+2014-10-13 17:06:20,113 INFO  [Log] X 
+2014-10-13 17:06:20,113 INFO  [Log] X 
+2014-10-13 17:06:24,086 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:24,086 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:24,086 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:06:24,086 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:24,086 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:06:24,087 INFO  [Log] Opening Browser 
+2014-10-13 17:06:24,120 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:06:24,147 INFO  [Log] Closing Browser 
+2014-10-13 17:06:24,147 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:06:24,175 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:06:24,175 INFO  [Log] X 
+2014-10-13 17:06:24,176 INFO  [Log] X 
+2014-10-13 17:06:24,176 INFO  [Log] X 
+2014-10-13 17:06:24,176 INFO  [Log] X 
+2014-10-13 17:06:25,680 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:06:27,175 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:07:39,652 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:07:39,652 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:07:39,652 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:07:39,652 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:07:39,652 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:07:50,261 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:08:34,327 INFO  [Log] Opening Browser 
+2014-10-13 17:08:59,544 INFO  [Log] Not able to open Browser --- null 
+2014-10-13 17:09:06,932 INFO  [Log] Closing Browser 
+2014-10-13 17:09:06,932 INFO  [Log] Not able to close the browser --- null 
+2014-10-13 17:09:06,955 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:09:06,955 INFO  [Log] X 
+2014-10-13 17:09:06,955 INFO  [Log] X 
+2014-10-13 17:09:06,955 INFO  [Log] X 
+2014-10-13 17:09:06,955 INFO  [Log] X 
+2014-10-13 17:10:18,719 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:18,720 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:18,720 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:10:18,720 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:18,720 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:18,720 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:10:18,720 INFO  [Log] Opening Browser 
+2014-10-13 17:10:23,645 INFO  [Log] Mozilla Browser started 
+2014-10-13 17:10:23,661 INFO  [Log] Closing Browser 
+2014-10-13 17:10:23,793 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:10:23,793 INFO  [Log] X 
+2014-10-13 17:10:23,793 INFO  [Log] X 
+2014-10-13 17:10:23,793 INFO  [Log] X 
+2014-10-13 17:10:23,793 INFO  [Log] X 
+2014-10-13 17:10:23,794 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:23,794 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:23,794 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:10:23,794 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:23,794 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:10:23,794 INFO  [Log] Opening Browser 
+2014-10-13 17:10:23,797 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:10:23,798 INFO  [Log] Closing Browser 
+2014-10-13 17:10:23,798 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:10:23,798 INFO  [Log] X 
+2014-10-13 17:10:23,798 INFO  [Log] X 
+2014-10-13 17:10:23,798 INFO  [Log] X 
+2014-10-13 17:10:23,798 INFO  [Log] X 
+2014-10-13 17:10:23,798 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:10:23,799 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:13:02,498 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:02,499 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:02,499 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:13:02,499 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:02,499 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:02,499 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:13:02,499 INFO  [Log] Opening Browser 
+2014-10-13 17:13:06,841 INFO  [Log] Mozilla Browser started 
+2014-10-13 17:13:06,855 INFO  [Log] Closing Browser 
+2014-10-13 17:13:06,993 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:13:06,993 INFO  [Log] X 
+2014-10-13 17:13:06,993 INFO  [Log] X 
+2014-10-13 17:13:06,993 INFO  [Log] X 
+2014-10-13 17:13:06,994 INFO  [Log] X 
+2014-10-13 17:13:06,994 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:06,994 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:06,994 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:13:06,994 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:06,994 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:06,994 INFO  [Log] Opening Browser 
+2014-10-13 17:13:06,997 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:13:06,998 INFO  [Log] Closing Browser 
+2014-10-13 17:13:06,998 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:13:06,998 INFO  [Log] X 
+2014-10-13 17:13:06,998 INFO  [Log] X 
+2014-10-13 17:13:06,998 INFO  [Log] X 
+2014-10-13 17:13:06,998 INFO  [Log] X 
+2014-10-13 17:13:06,999 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:13:06,999 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:13:29,011 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:29,011 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:29,011 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:13:29,011 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:29,012 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:13:44,899 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:14:12,284 INFO  [Log] Opening Browser 
+2014-10-13 17:14:17,371 INFO  [Log] Mozilla Browser started 
+2014-10-13 17:14:17,389 INFO  [Log] Closing Browser 
+2014-10-13 17:14:30,239 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:14:30,240 INFO  [Log] X 
+2014-10-13 17:14:30,240 INFO  [Log] X 
+2014-10-13 17:14:30,240 INFO  [Log] X 
+2014-10-13 17:14:30,241 INFO  [Log] X 
+2014-10-13 17:14:43,645 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:14:43,645 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:14:43,645 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:14:43,645 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:14:43,645 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:14:48,006 INFO  [Log] Opening Browser 
+2014-10-13 17:14:48,035 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:14:48,036 INFO  [Log] Closing Browser 
+2014-10-13 17:14:49,885 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:14:49,885 INFO  [Log] X 
+2014-10-13 17:14:49,885 INFO  [Log] X 
+2014-10-13 17:14:49,885 INFO  [Log] X 
+2014-10-13 17:14:49,885 INFO  [Log] X 
+2014-10-13 17:15:10,118 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:15:10,118 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:15:10,118 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:15:10,118 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:15:10,119 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:15:13,294 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:15:52,937 INFO  [Log] Opening Browser 
+2014-10-13 17:16:34,562 INFO  [Log] Mozilla Browser started 
+2014-10-13 17:17:25,862 INFO  [Log] Closing Browser 
+2014-10-13 17:17:32,860 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:17:32,860 INFO  [Log] X 
+2014-10-13 17:17:32,861 INFO  [Log] X 
+2014-10-13 17:17:32,861 INFO  [Log] X 
+2014-10-13 17:17:32,861 INFO  [Log] X 
+2014-10-13 17:17:37,550 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:17:37,551 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:17:37,551 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:17:37,551 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:17:37,552 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:17:37,554 INFO  [Log] Opening Browser 
+2014-10-13 17:17:37,572 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-13 17:17:37,573 INFO  [Log] Closing Browser 
+2014-10-13 17:17:37,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:17:37,574 INFO  [Log] X 
+2014-10-13 17:17:37,574 INFO  [Log] X 
+2014-10-13 17:17:37,574 INFO  [Log] X 
+2014-10-13 17:17:37,574 INFO  [Log] X 
+2014-10-13 17:17:38,196 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:17:38,821 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:28:10,570 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:28:10,571 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:28:10,571 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:28:10,571 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:28:10,571 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:28:16,769 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:28:25,499 INFO  [Log] Opening Browser 
+2014-10-13 17:28:30,726 INFO  [Log] Mozilla Browser started 
+2014-10-13 17:28:30,746 INFO  [Log] Closing Browser 
+2014-10-13 17:28:43,952 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:28:43,953 INFO  [Log] X 
+2014-10-13 17:28:43,953 INFO  [Log] X 
+2014-10-13 17:28:43,953 INFO  [Log] X 
+2014-10-13 17:28:43,954 INFO  [Log] X 
+2014-10-13 17:29:40,605 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:29:40,606 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:29:40,606 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:29:40,606 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:29:40,606 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:29:43,870 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:30:03,534 INFO  [Log] Opening Browser 
+2014-10-13 17:31:45,708 INFO  [Log] Mozilla Browser started 
+2014-10-13 17:32:52,668 INFO  [Log] Closing Browser 
+2014-10-13 17:33:06,357 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-13 17:33:06,357 INFO  [Log] X 
+2014-10-13 17:33:06,357 INFO  [Log] X 
+2014-10-13 17:33:06,358 INFO  [Log] X 
+2014-10-13 17:33:06,358 INFO  [Log] X 
+2014-10-13 17:33:28,192 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:33:28,193 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:33:28,193 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-13 17:33:28,193 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:33:28,193 INFO  [Log] **************************************************************************************** 
+2014-10-13 17:33:28,193 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-13 17:33:53,496 INFO  [Log] Opening Browser 
+2014-10-16 14:21:10,057 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:10,064 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:10,064 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:21:10,064 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:10,064 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:10,065 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 14:21:10,065 INFO  [Log] Opening Browser 
+2014-10-16 14:21:18,890 INFO  [Log] Mozilla Browser started 
+2014-10-16 14:21:18,919 INFO  [Log] Closing Browser 
+2014-10-16 14:21:19,003 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 14:21:19,004 INFO  [Log] X 
+2014-10-16 14:21:19,004 INFO  [Log] X 
+2014-10-16 14:21:19,004 INFO  [Log] X 
+2014-10-16 14:21:19,004 INFO  [Log] X 
+2014-10-16 14:21:19,004 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:19,004 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:19,004 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:21:19,004 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:19,004 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:21:19,004 INFO  [Log] Opening Browser 
+2014-10-16 14:21:19,032 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-16 14:21:19,033 INFO  [Log] Closing Browser 
+2014-10-16 14:21:19,033 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 14:21:19,033 INFO  [Log] X 
+2014-10-16 14:21:19,033 INFO  [Log] X 
+2014-10-16 14:21:19,033 INFO  [Log] X 
+2014-10-16 14:21:19,033 INFO  [Log] X 
+2014-10-16 14:21:19,034 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 14:21:19,034 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 14:22:19,616 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:22:19,617 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:22:19,617 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:22:19,617 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:22:19,617 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:22:25,567 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 14:23:07,974 INFO  [Log] Opening Browser 
+2014-10-16 14:23:26,644 INFO  [Log] Mozilla Browser started 
+2014-10-16 14:25:31,206 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:25:31,206 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:25:31,206 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:25:31,207 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:25:31,207 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:25:41,182 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 14:27:43,670 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:27:43,671 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:27:43,671 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:27:43,671 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:27:43,671 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:27:57,134 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 14:31:35,154 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:31:35,154 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:31:35,154 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:31:35,154 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:31:35,155 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:40:03,119 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:40:03,120 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:40:03,120 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 14:40:03,120 INFO  [Log] **************************************************************************************** 
+2014-10-16 14:40:03,120 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:04:48,463 INFO  [Log] Opening Browser 
+2014-10-16 15:04:53,619 INFO  [Log] Mozilla Browser started 
+2014-10-16 15:05:25,727 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 15:05:25,728 INFO  [Log] X 
+2014-10-16 15:05:25,729 INFO  [Log] X 
+2014-10-16 15:05:25,729 INFO  [Log] X 
+2014-10-16 15:05:25,730 INFO  [Log] X 
+2014-10-16 15:05:36,502 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:05:36,503 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:05:36,503 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 15:05:36,504 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:05:36,504 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:05:43,189 INFO  [Log] Opening Browser 
+2014-10-16 15:05:43,228 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-16 15:05:43,229 INFO  [Log] Closing Browser 
+2014-10-16 15:05:45,781 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 15:05:45,782 INFO  [Log] X 
+2014-10-16 15:05:45,783 INFO  [Log] X 
+2014-10-16 15:05:45,783 INFO  [Log] X 
+2014-10-16 15:05:45,783 INFO  [Log] X 
+2014-10-16 15:05:48,718 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 15:05:48,886 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 15:06:13,315 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:06:13,316 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:06:13,317 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 15:06:13,317 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:06:13,317 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:06:28,691 INFO  [Log] Opening Browser 
+2014-10-16 15:06:44,041 INFO  [Log] Mozilla Browser started 
+2014-10-16 15:09:12,330 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:09:12,331 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:09:12,331 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 15:09:12,331 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:09:12,331 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:09:27,463 INFO  [Log] Opening Browser 
+2014-10-16 15:09:42,520 INFO  [Log] Mozilla Browser started 
+2014-10-16 15:11:30,778 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-16 15:12:36,933 INFO  [Log] Entering the text in txtEmail 
+2014-10-16 15:13:33,210 INFO  [Log] Entering the text in txtPwd 
+2014-10-16 15:14:12,464 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-16 15:15:13,293 INFO  [Log] Not able to click --- Unable to locate element: {"method":"xpath","selector":"//*[@id='btnLogin1']"}
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.0', revision: '5e82430', time: '2014-05-22 20:18:07'
+System info: host: 'UDeshmukh', ip: '192.168.0.124', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=31.0, platform=XP, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 462963fd-ff56-40d6-a5ba-3e47ea3c35bd 
+2014-10-16 15:15:13,368 INFO  [Log] Closing Browser 
+2014-10-16 15:15:13,590 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 15:15:13,590 INFO  [Log] X 
+2014-10-16 15:15:13,590 INFO  [Log] X 
+2014-10-16 15:15:13,590 INFO  [Log] X 
+2014-10-16 15:15:13,590 INFO  [Log] X 
+2014-10-16 15:15:17,195 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:15:17,195 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:15:17,195 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 15:15:17,195 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:15:17,195 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:15:18,390 INFO  [Log] Opening Browser 
+2014-10-16 15:15:18,406 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-16 15:15:18,431 INFO  [Log] Closing Browser 
+2014-10-16 15:15:18,458 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 15:15:18,458 INFO  [Log] X 
+2014-10-16 15:15:18,458 INFO  [Log] X 
+2014-10-16 15:15:18,458 INFO  [Log] X 
+2014-10-16 15:15:18,458 INFO  [Log] X 
+2014-10-16 15:15:19,196 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 15:15:20,803 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 15:16:47,625 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:16:47,625 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:16:47,625 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 15:16:47,625 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:16:47,625 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:16:47,625 INFO  [Log] Opening Browser 
+2014-10-16 15:16:52,069 INFO  [Log] Mozilla Browser started 
+2014-10-16 15:16:52,147 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-16 15:16:56,758 INFO  [Log] Entering the text in txtEmail 
+2014-10-16 15:16:56,858 INFO  [Log] Entering the text in txtPwd 
+2014-10-16 15:16:56,917 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-16 15:16:59,437 INFO  [Log] Waiting for 5 seconds 
+2014-10-16 15:17:04,454 INFO  [Log] Verifying text My Sample Center in h1 
+2014-10-16 15:17:14,552 INFO  [Log] Not able verifyText --- Unable to locate element: {"method":"xpath","selector":"//h1"}
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.42.0', revision: '5e82430', time: '2014-05-22 20:18:07'
+System info: host: 'UDeshmukh', ip: '192.168.0.124', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_11'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=31.0, platform=XP, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 86863823-b3b8-4d26-8c8d-fc98754cfd71 
+2014-10-16 15:17:14,580 INFO  [Log] Closing Browser 
+2014-10-16 15:17:14,699 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 15:17:14,700 INFO  [Log] X 
+2014-10-16 15:17:14,700 INFO  [Log] X 
+2014-10-16 15:17:14,700 INFO  [Log] X 
+2014-10-16 15:17:14,700 INFO  [Log] X 
+2014-10-16 15:17:14,700 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:17:14,700 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:17:14,700 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-16 15:17:14,700 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:17:14,700 INFO  [Log] **************************************************************************************** 
+2014-10-16 15:17:14,700 INFO  [Log] Opening Browser 
+2014-10-16 15:17:14,704 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-16 15:17:14,727 INFO  [Log] Closing Browser 
+2014-10-16 15:17:14,743 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-16 15:17:14,743 INFO  [Log] X 
+2014-10-16 15:17:14,743 INFO  [Log] X 
+2014-10-16 15:17:14,743 INFO  [Log] X 
+2014-10-16 15:17:14,743 INFO  [Log] X 
+2014-10-16 15:17:14,743 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-16 15:17:14,743 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-18 20:23:45,952 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:23:45,962 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:23:45,962 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-18 20:23:45,962 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:23:45,962 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:23:45,962 INFO  [Log] Opening Browser 
+2014-10-18 20:24:39,355 INFO  [Log] Not able to open Browser --- Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: 
+nstall location app-system-local
+1413644031271	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1413644031304	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+1413644031306	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\Admin\AppData\Local\Temp\anonymous3817706065235308150webdriver-profile\extensions\fxdriver@googlecode.com
+1413644031307	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\Admin\AppData\Local\Temp\anonymous3817706065235308150webdriver-profile\extensions\webdriver-staging
+1413644031307	addons.xpi	DEBUG	checkForChanges
+1413644031323	addons.xpi	DEBUG	Directory state JSON differs: cache [] state [{"name":"app-global","addons":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"descriptor":"C:\\Program Files\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}","mtime":1411889223010,"rdfTime":1411889222983}}},{"name":"app-profile","addons":{"fxdriver@googlecode.com":{"descriptor":"C:\\Users\\Admin\\AppData\\Local\\Temp\\anonymous3817706065235308150webdriver-profile\\extensions\\fxdriver@googlecode.com","mtime":1413644027902,"rdfTime":1413644027792}}}]
+1413644031329	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\Admin\AppData\Local\Temp\anonymous3817706065235308150webdriver-profile\extensions.json
+1413644031330	addons.xpi	DEBUG	New add-on fxdriver@googlecode.com installed in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1413644032224	addons.xpi-utils	DEBUG	Make addon app-profile:fxdriver@googlecode.com visible
+1413644032226	DeferredSave.extensions.json	DEBUG	Save changes
+1413644032226	DeferredSave.extensions.json	DEBUG	Save changes
+1413644032227	addons.xpi	DEBUG	New add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} installed in app-global
+1413644032244	addons.xpi-utils	DEBUG	Make addon app-global:{972ce4c6-7e08-4474-a285-3208198ce6fd} visible
+1413644032244	DeferredSave.extensions.json	DEBUG	Save changes
+1413644032245	DeferredSave.extensions.json	DEBUG	Save changes
+1413644032256	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1413644032256	addons.xpi-utils	DEBUG	Updating add-on states
+1413644032257	addons.xpi-utils	DEBUG	Writing add-ons list
+1413644033247	DeferredSave.extensions.json	DEBUG	Starting timer
+1413644033289	DeferredSave.extensions.json	DEBUG	Starting write
+1413644033405	addons.manager	DEBUG	shutdown
+1413644033410	addons.xpi	DEBUG	shutdown
+1413644033410	addons.xpi-utils	DEBUG	shutdown
+1413644033497	DeferredSave.extensions.json	DEBUG	Write succeeded
+1413644033497	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 16
+1413644033498	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1413644033501	addons.manager	DEBUG	Async provider shutdown done
+1413644035140	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1413644035142	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1413644035144	addons.xpi	DEBUG	startup
+1413644035145	addons.xpi	DEBUG	Skipping unavailable install location app-system-local
+1413644035146	addons.xpi	DEBUG	Skipping unavailable install location app-system-share
+1413644035146	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}
+1413644035148	addons.xpi	INFO	Mapping fxdriver@googlecode.com to C:\Users\Admin\AppData\Local\Temp\anonymous3817706065235308150webdriver-profile\extensions\fxdriver@googlecode.com
+1413644035148	addons.xpi	DEBUG	Ignoring file entry whose name is not a valid add-on ID: C:\Users\Admin\AppData\Local\Temp\anonymous3817706065235308150webdriver-profile\extensions\webdriver-staging
+1413644035148	addons.xpi	DEBUG	checkForChanges
+1413644035161	addons.xpi	DEBUG	No changes found
+*** Blocklist::_preloadBlocklistFile: blocklist is disabled
+
+Build info: version: '2.42.0', revision: '5e82430', time: '2014-05-22 20:18:07'
+System info: host: 'Udeskmukh', ip: '192.168.0.28', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: driver.version: FirefoxDriver 
+2014-10-18 20:24:39,467 INFO  [Log] Closing Browser 
+2014-10-18 20:24:39,467 INFO  [Log] Not able to close the browser --- null 
+2014-10-18 20:24:39,497 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-18 20:24:39,497 INFO  [Log] X 
+2014-10-18 20:24:39,497 INFO  [Log] X 
+2014-10-18 20:24:39,497 INFO  [Log] X 
+2014-10-18 20:24:39,497 INFO  [Log] X 
+2014-10-18 20:24:39,497 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:24:39,497 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:24:39,497 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-18 20:24:39,497 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:24:39,497 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:24:39,497 INFO  [Log] Opening Browser 
+2014-10-18 20:24:39,507 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-18 20:24:39,527 INFO  [Log] Closing Browser 
+2014-10-18 20:24:39,527 INFO  [Log] Not able to close the browser --- null 
+2014-10-18 20:24:39,547 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-18 20:24:39,547 INFO  [Log] X 
+2014-10-18 20:24:39,547 INFO  [Log] X 
+2014-10-18 20:24:39,547 INFO  [Log] X 
+2014-10-18 20:24:39,547 INFO  [Log] X 
+2014-10-18 20:24:39,547 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-18 20:24:39,547 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-18 20:34:26,249 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:34:26,249 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:34:26,249 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-18 20:34:26,249 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:34:26,249 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:34:26,249 INFO  [Log] Opening Browser 
+2014-10-18 20:34:31,539 INFO  [Log] Mozilla Browser started 
+2014-10-18 20:34:31,648 INFO  [Log] Navigating to URL: http://www.sc-ksc.pupsqc01.local/ 
+2014-10-18 20:35:01,554 INFO  [Log] Entering the text in txtEmail 
+2014-10-18 20:35:01,756 INFO  [Log] Entering the text in txtPwd 
+2014-10-18 20:35:01,897 INFO  [Log] Clicking on Webelement btnLogin 
+2014-10-18 20:35:03,660 INFO  [Log] Waiting for 5 seconds 
+2014-10-18 20:35:08,699 INFO  [Log] Verifying text My Sample Center in h1 
+2014-10-18 20:35:18,761 INFO  [Log] Not able verifyText --- Unable to locate element: {"method":"xpath","selector":"//h1"}
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.43.1', revision: '5163bce', time: '2014-09-10 16:27:33'
+System info: host: 'Udeskmukh', ip: '192.168.0.28', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=33.0, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e3c1e66e-7885-4e15-acad-b2ca68f17504 
+2014-10-18 20:35:18,776 INFO  [Log] Closing Browser 
+2014-10-18 20:35:19,010 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-18 20:35:19,010 INFO  [Log] X 
+2014-10-18 20:35:19,010 INFO  [Log] X 
+2014-10-18 20:35:19,010 INFO  [Log] X 
+2014-10-18 20:35:19,010 INFO  [Log] X 
+2014-10-18 20:35:19,010 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:35:19,010 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:35:19,010 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-18 20:35:19,010 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:35:19,010 INFO  [Log] **************************************************************************************** 
+2014-10-18 20:35:19,026 INFO  [Log] Opening Browser 
+2014-10-18 20:35:19,026 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-18 20:35:19,041 INFO  [Log] Closing Browser 
+2014-10-18 20:35:19,057 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-18 20:35:19,057 INFO  [Log] X 
+2014-10-18 20:35:19,057 INFO  [Log] X 
+2014-10-18 20:35:19,057 INFO  [Log] X 
+2014-10-18 20:35:19,057 INFO  [Log] X 
+2014-10-18 20:35:19,057 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-18 20:35:19,057 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-21 17:03:18,947 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:18,947 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:18,948 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-21 17:03:18,948 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:18,948 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:18,948 INFO  [Log] Opening Browser 
+2014-10-21 17:03:25,012 INFO  [Log] Mozilla Browser started 
+2014-10-21 17:03:25,027 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-21 17:03:25,027 INFO  [Log] X 
+2014-10-21 17:03:25,027 INFO  [Log] X 
+2014-10-21 17:03:25,027 INFO  [Log] X 
+2014-10-21 17:03:25,027 INFO  [Log] X 
+2014-10-21 17:03:25,027 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:25,028 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:25,028 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC03       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2014-10-21 17:03:25,028 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:25,028 INFO  [Log] **************************************************************************************** 
+2014-10-21 17:03:25,029 INFO  [Log] Opening Browser 
+2014-10-21 17:03:25,032 INFO  [Log] Not able to open Browser --- The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see http://code.google.com/p/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html 
+2014-10-21 17:03:25,033 INFO  [Log] Closing Browser 
+2014-10-21 17:03:25,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2014-10-21 17:03:25,171 INFO  [Log] X 
+2014-10-21 17:03:25,171 INFO  [Log] X 
+2014-10-21 17:03:25,171 INFO  [Log] X 
+2014-10-21 17:03:25,171 INFO  [Log] X 
+2014-10-21 17:03:25,172 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2014-10-21 17:03:25,172 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
