@@ -41,3 +41,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+bin/dataEngine (1)/TestSuite.xlsx
+logfile (1).log
+src/dataEngine/TestSuite (1).xlsx
+src/executionEngine/DriverScript (1).java
+src/utility/ExcelUtils (1).java
