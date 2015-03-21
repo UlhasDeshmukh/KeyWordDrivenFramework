@@ -2,7 +2,7 @@ package config;
 
 public class Constants {
 
-	public static final String loginURL = "http://www.sc-ksc.pupsqc01.local/";
+	public static final String loginURL = "http://www.testsite123.local/";
 	public static final String Path_TestData="src\\dataEngine\\TestSuite.xlsx";
 	public static final String Path_OR="src\\config\\OR.properties";
 	public static final String File_testData = "TestSuite.xlsx";
@@ -24,7 +24,7 @@ public class Constants {
     public static final String Sheet_TestSteps = "TC01";
  
     // List of Test Data
-    public static final String UserName = "9999922211@physiciansinteractive.com";
+    public static final String UserName = "9999922211@testmail.com";
     public static final String Password = "Password1234";
 
     public static final String KEYWORD_FAIL="FAIL";
